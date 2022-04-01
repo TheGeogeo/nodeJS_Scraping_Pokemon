@@ -1,5 +1,6 @@
-# nodeJS_Scraping_Pokemon
-Scraping of all Pokemons since 1996.
+# nodeJS Scraping Pokemon
+Scraping of all Pokemons since 1996.<br>
+All pokemons will be stored in a .JSON.
 
 # INSTALLATION
 Open terminal in your folder where you clone this git.<br>
